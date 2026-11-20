@@ -1,0 +1,6 @@
+설정.json
+*.xlsx
+*.xlsb
+*.tmp
+__pycache__/
+원본점검*
